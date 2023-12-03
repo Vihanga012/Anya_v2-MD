@@ -9,7 +9,7 @@ global.zApiKey = {// if this API key get expired then please go to https://www.f
 
 
 global.botname = process.env.BotName || "DARK SHADOW" 
-global.author = process.env.Author || "@VIHANGA" 
+global.author = process.env.Author || "@KUSHAN" 
 global.packname = process.env.PackName || "DARK SADOW MD" 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
 global.footer = process.env.Footer || "© DARK SHADOW BOT" 
@@ -102,7 +102,7 @@ global.message = {
 
 module.exports = {
   botname: process.env.BotName || "DARK SHADOW " 
-  author: process.env.Author || "@VIHANGA",
+  author: process.env.Author || "@KUSHAN",
   packname: process.env.PackName || "DARK SHADOW MD",
   myweb: process.env.Web || "https://github.com/PikaBotz",
   footer: process.env.Footer || "© DARK SHADOW BOT",
@@ -120,7 +120,7 @@ module.exports = {
   left: process.env.Left_Msg || 'Ex-member *@$user* is no longer available in this group chat.\n\n_$prefix goodbye off to disable this message._',
   promote: process.env.Promote_Msg || '*@$user* has been promoted as an admin in this group.\n\n_$prefix promotem off to disable this message._',
   demote: process.env.Demote_Msg || '*@$user* has been demoted to a member in this group.\n\n_$prefix demotem off to disable this message._',
-  sessionId: process.env.SESSION_ID || "WjJQZER_Queen-Anya_3U2E=", 
+  sessionId: process.env.SESSION_ID || "V1pFV0Y_Queen-Anya_4TVg=", 
   auto_read_status : process.env.AUTO_READ_STATUS || "true",
   alwaysonline: process.env.ALWAYS_ONLINE || "true", 
   readmessage: process.env.READ_MESSAGE || "true", 
